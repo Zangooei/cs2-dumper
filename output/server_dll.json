@@ -19535,6 +19535,23 @@
         },
         "type": "uint8"
       },
+      "PF_INPUT_MODE_CLAMPED": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "PF_MAP_TYPE_DIRECT": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "PF_NOISE_TYPE_PERLIN": {
+        "alignment": 213,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
       "PerformanceMode_t": {
         "alignment": 4,
         "members": {

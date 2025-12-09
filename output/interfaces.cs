@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-12-09 21:46:00.250252300 UTC
+// 2025-12-09 23:44:30.606776800 UTC
 
 namespace CS2Dumper.Interfaces {
     // Module: animationsystem.dll
@@ -9,14 +9,18 @@ namespace CS2Dumper.Interfaces {
     }
     // Module: client.dll
     public static class ClientDll {
-        public const nint ClientToolsInfo_001 = 0x1BE6BB0;
-        public const nint EmptyWorldService001_Client = 0x1BA1FC0;
-        public const nint GameClientExports001 = 0x1BE3890;
-        public const nint LegacyGameUI001 = 0x1C02130;
-        public const nint Source2Client002 = 0x1E2B570;
-        public const nint Source2ClientConfig001 = 0x1DC4DD0;
-        public const nint Source2ClientPrediction001 = 0x1BEDE40;
-        public const nint Source2ClientUI001 = 0x1C00670;
+        public const nint ClientToolsInfo_001 = 0x1BE7BB0;
+        public const nint EmptyWorldService001_Client = 0x1BA2FC0;
+        public const nint GameClientExports001 = 0x1BE4890;
+        public const nint LegacyGameUI001 = 0x1C03130;
+        public const nint Source2Client002 = 0x1E2C570;
+        public const nint Source2ClientConfig001 = 0x1DC5DD0;
+        public const nint Source2ClientPrediction001 = 0x1BEEE40;
+        public const nint Source2ClientUI001 = 0x1C01670;
+    }
+    // Module: crashhandler64.dll
+    public static class Crashhandler64Dll {
+        public static readonly nint  = unchecked((nint)0xFFFF800522A80007);
     }
     // Module: engine2.dll
     public static class Engine2Dll {
